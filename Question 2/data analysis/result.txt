@@ -1,0 +1,15 @@
+1. Final Grade Distribution (Histogram)
+ Understanding the total distribution of final grades (G3) is the goal.
+ Analysis: By displaying whether final grades are skewed, regularly distributed, or concentrated in a particular range, the histogram with a kernel density estimate (KDE) aids in determining the distribution of these grades.  This gives information about the kids' overall performance.
+2. Boxplot: Lunch Type versus. Math Score
+ The goal is to examine the relationship between math performance and lunch type, which is likely a stand-in for socioeconomic variables.
+ Analysis: The distribution of math scores for each meal type category is displayed in the boxplot.  This indicates possible effects of diet or other social factors on academic performance and makes it simple to spot any notable variations in math performance based on lunch type.
+3. Final Grade vs. Math Score (Scatterplot)
+ The goal is to investigate the connection between final grades and math scores.
+ Analysis: The scatterplot graphically illustrates the relationships between final grades and math scores.  This aids in determining whether kids who excel in math typically earn higher final grades, which may indicate that academic achievement is influenced by performance in certain areas.
+4. Barplot of Parental Education Level vs Final Grade
+ The goal is to investigate how parental educational attainment affects final grades.
+ Analysis: The barplot shows patterns in the relationship between students' final grades and the educational attainment of their parents.  By clearly comparing performance across different parental education categories, it may be possible to determine how important family education background is for student success.
+5. Final Grade Distribution by Gender (Violin Plot)
+ The goal is to compare how final grades are distributed by gender.
+ Analysis: The distribution and density of grades for each gender are displayed in the violin plot.  It makes it simple to determine whether there are trends in academic achievement connected to gender by highlighting any disparities in the distribution of grades between boys and females.
